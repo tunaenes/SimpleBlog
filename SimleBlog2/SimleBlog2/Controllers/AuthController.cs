@@ -10,7 +10,7 @@ namespace SimleBlog2.Controllers
     {
         public ActionResult Login()
         {
-            return Content("Auth Controller Index Action");
+            return View();
         }
     }
 }

@@ -19,7 +19,7 @@ namespace SimleBlog2.Areas.Admin.Controllers
         }
         public ActionResult Edit(int id=0)
         {
-            return Content("Edit Screen"+id.ToString());
+            return Content("Edit Screen="+id.ToString());
         }
     }
 }

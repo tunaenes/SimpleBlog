@@ -87,6 +87,6 @@ C:\SimpleBlog\SimleBlog2\SimleBlog2\bin\System.Web.Webpages.Deployment.xml
 C:\SimpleBlog\SimleBlog2\SimleBlog2\bin\System.Web.Webpages.Razor.xml
 C:\SimpleBlog\SimleBlog2\SimleBlog2\bin\System.Web.Helpers.xml
 C:\SimpleBlog\SimleBlog2\SimleBlog2\bin\System.Web.Mvc.xml
-C:\SimpleBlog\SimleBlog2\SimleBlog2\obj\Debug\SimleBlog2.csprojResolveAssemblyReference.cache
 C:\SimpleBlog\SimleBlog2\SimleBlog2\obj\Debug\SimleBlog2.dll
 C:\SimpleBlog\SimleBlog2\SimleBlog2\obj\Debug\SimleBlog2.pdb
+C:\SimpleBlog\SimleBlog2\SimleBlog2\obj\Debug\SimleBlog2.csprojResolveAssemblyReference.cache
